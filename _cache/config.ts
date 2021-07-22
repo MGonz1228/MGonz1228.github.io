@@ -120,7 +120,7 @@ export default {
      */
     socialMedia: [
       { name: 'Github', icon: 'github', link: 'https://github.com/MattGonz' },
-      { name: 'LinkedIn', icon: 'linkedin', link: 'https://www.linkedin.com/in/matthew-gonzalez-6704b0132/' },
+      { name: 'LinkedIn', icon: 'linkedin', link: 'https://www.linkedin.com/in/matthewgonz' },
     ],
   },
 
@@ -208,7 +208,8 @@ export default {
          */
         repositories: [
 		{ attr: 'name', values:
-			['Flix-With-Friends', 
+			['pyCGM',
+				'Flix-With-Friends', 
 				'Subrawtica', 
 				'Sliding-Tile-Solver', 
 				'Tomatoesh', 
